@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @cielos20
-- 👀 I’m interested in web development and app development
-- 🌱 I’m currently learning c# and the .NET framework
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me cielos20@hotmail.com
+# Hello there I'm Ciel
 
-<!---
-cielos20/cielos20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# How to reach me
+
+##  A little about me
+ ```js
+ const Ciel = {
+  code: ["Javascript, "Python", "HTML/CSS", "SQL", "GO", "C/C++", "Ruby", "PHP"],
+  technologies: {
+    backend: {
+      python: ["Django", "Flask"],
+      javascript: ["Express", "Meteor"],
+      ruby: ["Rails"],
+      php: ["Laravel"],
+    },
+    frontend: ["React", "Next", "Nuxt", "Vue", "Svelte"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    cms: ["Wordpress", "Forestry"],
+  },
+  currentFocus: "Learning more about the backend and devops",
+  conversationTopics: ["WebDev", "Gaming", "Teaching", "Learning"],
+  currentOcupation: "Student",
+  goals: ["Get a job on web development or similar"]
+ };
+ ```
