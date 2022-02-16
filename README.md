@@ -1,5 +1,5 @@
 # Hello there I'm Ciel
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="center" />
+![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 # How to reach me
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:cielos20@hotmail.com) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aeonus20@gmail.com) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](tel:93751253) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-tom%C3%A1s-15304a232/)
 ##  A little about me in a code snippet
